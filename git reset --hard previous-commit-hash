@@ -1,0 +1,95 @@
+[33mcommit 0016377eacf061296bacce747cf2d592f00d4adf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Tue Jul 16 13:43:43 2024 +0500
+
+    Revert changes
+
+[33mcommit 6a5a3b5e3fdff60664c87450e6c5f1f47e4c6e34[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Tue Jul 16 13:40:10 2024 +0500
+
+    Supervised Machine Learning
+
+[33mcommit 74c12a8dddab32c5a0f8628d296d3beddaf9d893[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Tue Jul 16 13:29:56 2024 +0500
+
+    Adaboost algorithm from scratch using mathematical formulation
+
+[33mcommit 7542d07a37f0d3f59343b790bff308460be23930[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Tue Jul 16 00:06:00 2024 +0500
+
+    Decision Tree Classification
+
+[33mcommit ac7e3005afb81a091210f847e200f1077e53e97e[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Mon Jul 15 13:53:22 2024 +0500
+
+    OOB Score (out of bag) for random forest
+
+[33mcommit 814379514b35e4cfd525bbe718a5e0803e62afbb[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Sun Jul 14 14:42:22 2024 +0500
+
+    Random Forest Hyperparamter tuning
+
+[33mcommit f0b00f66d80c0334974d7c73b9058e3ba7451ea2[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Sun Jul 14 14:09:48 2024 +0500
+
+    Random Forest Classification without hyperparameter tuning
+
+[33mcommit 1dd18c75ecc5ef1cb062528fe67764cfcd96edd0[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Sun Jul 14 09:32:12 2024 +0500
+
+    Random Forest - Row Sampling
+
+[33mcommit 75fc6a0c9e1b8f47798aad29dfb5cc243d83aa4b[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Sat Jul 13 12:35:41 2024 +0500
+
+    Bagging Bootstrapped Aggregation
+
+[33mcommit 946d1168817b3d95de06677900942c7f40fe51df[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Fri Jul 12 23:34:06 2024 +0500
+
+    Linear Regression Perceptron Code
+
+[33mcommit 992ece6f254daf84fc301be4b2f9f8926478a722[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Thu Jul 11 23:51:17 2024 +0500
+
+    Multiple Linear Regression from Mathematical formulation
+
+[33mcommit fe6bc27e639c0336a435249964f71e92fc866ccf[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Thu Jul 11 17:13:44 2024 +0500
+
+    Multiple Linear Regression
+
+[33mcommit b9b9e78e69cb78fdef7b28e96d576a46c5aaa300[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Thu Jul 11 13:48:04 2024 +0500
+
+    Linear Regression from mathematical formulation
+
+[33mcommit da5206db4957815306c95ac5ca929d6d64a5d28b[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Wed Jul 10 22:49:51 2024 +0500
+
+    Simple Linear Regression
+
+[33mcommit da786b3cdef68483463e2296236f76966a69715e[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Wed Jul 10 22:48:10 2024 +0500
+
+    Simple Linear Regression
+
+[33mcommit e1abd67db2cd24dd23c82210be77f562f81d3277[m
+Author: humayun-dev <humayun.devv@gmail.com>
+Date:   Wed Jul 10 22:47:43 2024 +0500
+
+    first commit
